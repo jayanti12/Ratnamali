@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="RAtnamali Test">
+    <classes>
+      <class name="Ratnamali.Contacts.VerifyContactsTab"/>
+      <class name="Ratnamali.quotes.VerifyQuotesTab"/>
+      <class name="Ratnamali.Campaigns.VerifyCampaignsTab"/>
+      <class name="Ratnamali.Potentials.VerifyPotentialsTab"/>
+      <class name="Ratnamali.Reports.VerifyReportsTab"/>
+      <class name="Ratnamali.Login.ValidLogin"/>
+      <class name="Ratnamali.Forecasts.VerifyForecastsTab"/>
+      <class name="Ratnamali.Accounts.VerifyAccountsTab"/>
+      <class name="Ratnamali.Leads.VerifyLeadsTab"/>
+      <class name="Ratnamali.Dashboard.VerifyDashboardsTab"/>
+      <class name="Ratnamali.Campaigns.CreateNewCampaign"/>
+      <class name="Ratnamali.Leads.CreateNewLead"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
