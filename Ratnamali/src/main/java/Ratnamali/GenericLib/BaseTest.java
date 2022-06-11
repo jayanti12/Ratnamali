@@ -7,6 +7,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 //return in global report(Github)
 //Written in global Repo(Github)
+//hi Maa
 
 
 public class BaseTest implements IAutoConsts{
