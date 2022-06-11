@@ -6,7 +6,12 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 //return in global report(Github)
+//<<<<<<< HEAD
 //written in local repo(git)
+//=======
+//Written in global Repo(Github)
+//>>>>>>> branch 'main' of https://github.com/jayanti12/Ratnamali.git
+//Return in local Repo(Git)
 
 
 public class BaseTest implements IAutoConsts{
