@@ -10,9 +10,13 @@ import org.testng.annotations.BeforeClass;
 //written in local repo(git)
 //=======
 //Written in global Repo(Github)
+//<<<<<<< HEAD
 //>>>>>>> branch 'main' of https://github.com/jayanti12/Ratnamali.git
 //Return in local Repo(Git)
-
+//=======
+//hi Maa
+//>>>>>>> branch 'main' of https://github.com/jayanti12/Ratnamali.git
+//hi BABA
 
 public class BaseTest implements IAutoConsts{
 
